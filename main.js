@@ -1,5 +1,5 @@
 const text = document.getElementById("text").innerHTML;
-document.getElementById("text").innerText = ""; // Efface le texte
+document.getElementById("text").innerText = ""; 
 function typing() {
 let i = 0;   
  
